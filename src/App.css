@@ -25,6 +25,7 @@ p {
     padding: 15px;
     border-radius: 12px;
     position: relative;
+    margin-top: 25px;
 }
 .d-flex {
     display: flex;
